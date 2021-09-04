@@ -7,7 +7,7 @@ The purpose of this project is to identify potential ways to improve access to r
 ## Results
 The ride-share data comes from two files containing information about rides, drivers, fare amounts, dates and city type (rural, suburban, urban).  Combining and manipulating these fields provides further information about total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.  The results are:
 
-![image](https://user-images.githubusercontent.com/84471904/126821812-163c05c6-db5d-4c9b-b897-c703592db3ef.png)
+![image](https://github.com/AswithaB/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
 
 _Total Rides by City Type_
@@ -34,7 +34,7 @@ _Total Fares Over Time by City Type_
 
 Total fares were also analyzed by city type over time, from beginning of January through the end if April, resulting in the following graph:
 
-![image](https://user-images.githubusercontent.com/84471904/126826030-43880390-8e0d-46e4-a150-ef375b159797.png)
+![image](https://github.com/AswithaB/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 Tracking fares over time also shows that urban cities generated much higher revenue in fares compared to urban and rural cities.  
 
